@@ -1,2 +1,2 @@
 # Climate_API
-**HEllo There**
+**Hello There**
