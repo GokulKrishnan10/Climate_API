@@ -1,7 +1,7 @@
 # Climate_API
 
 **This API returns JSON related to climate that are web scraped from popular websites like nytimes, thetimes, bbc, chinadaily and thehindu.**
-**The JSON format is 
+**The JSON format is **
 [
 {
 "title": "\nCranberry farmers fight climate change to protect Thanksgiving staple\n",
